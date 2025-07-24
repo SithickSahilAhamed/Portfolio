@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
             <div className="relative">
               <div className="relative overflow-hidden border-2 rounded-full w-80 h-80 bg-white/20 backdrop-blur-sm border-white/30 group">
                 <img
-                  src="./image/Sahil1.jpg"
+                  src="./image/sahil1.jpg"
                   alt="Sithick Sahil Ahamed Z - Full-Stack Developer"
                   className="object-cover w-full h-full"
                 />

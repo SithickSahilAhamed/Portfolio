@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Download, MessageCircle, ChevronDown } from 'lucide-react';
+import sahil1 from '../../image/sahil1.jpg';
 
 const Hero: React.FC = () => {
   const [displayText, setDisplayText] = useState('');
@@ -44,7 +45,7 @@ const Hero: React.FC = () => {
             <div className="relative">
               <div className="relative overflow-hidden border-2 rounded-full w-80 h-80 bg-white/20 backdrop-blur-sm border-white/30 group">
                 <img
-                  src="../../image/sahil1.jpg"
+                  src={sahil1}
                   alt="Sithick Sahil Ahamed Z - Full-Stack Developer"
                   className="object-cover w-full h-full"
                 />

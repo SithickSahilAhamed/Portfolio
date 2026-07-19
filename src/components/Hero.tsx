@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
                 <img
                   src={sahil1}
                   alt="Sithick Sahil Ahamed Z - Full-Stack Developer"
-                  className="object-cover w-full h-full"
+                  className="object-cover object-top w-full h-full"
                 />
                 <div className="absolute inset-0 transition-transform duration-1000 -translate-x-full bg-gradient-to-r from-transparent via-white/20 to-transparent group-hover:translate-x-full"></div>
                 <div className="absolute inset-0 pointer-events-none animate-spin-slow">

@@ -44,7 +44,7 @@ const Education: React.FC = () => {
                     
                     <div className="flex items-center font-semibold text-orange-600">
                       <Calendar size={20} className="mr-3" />
-                      <span>Currently in Final Year</span>
+                      <span>Currently in 4th Year</span>
                     </div>
                   </div>
                   

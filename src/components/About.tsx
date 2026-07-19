@@ -22,7 +22,7 @@ const About: React.FC = () => {
           <div className="lg:col-span-2 space-y-6">
             <div className="prose prose-lg text-gray-700">
               <p className="text-xl leading-relaxed">
-                I'm a passionate <strong className="text-blue-600">Full-Stack Developer</strong> and final-year Information Technology student at Agni College of Technology, Chennai, with an unwavering dedication to building real-world tech solutions that create meaningful impact. My journey in technology is driven by curiosity and the desire to solve complex problems through elegant code.
+                I'm a passionate <strong className="text-blue-600">Full-Stack Developer</strong> and 4th-year Information Technology student at Agni College of Technology, Chennai, with an unwavering dedication to building real-world tech solutions that create meaningful impact. My journey in technology is driven by curiosity and the desire to solve complex problems through elegant code.
               </p>
               
               <p className="text-lg leading-relaxed">
